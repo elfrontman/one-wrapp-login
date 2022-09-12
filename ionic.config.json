@@ -1,0 +1,7 @@
+{
+  "name": "OneWrapp Login",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
