@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">OneWrapp Login</string>
+    <string name="title_activity_main">OneWrapp Login</string>
+    <string name="package_name">com.onewrapp.login</string>
+    <string name="custom_url_scheme">com.onewrapp.login</string>
+    <string name="server_client_id">417588692467-atg80dle31vfjdrfci9lnf775rdefnvg.apps.googleusercontent.com</string>
+</resources>
